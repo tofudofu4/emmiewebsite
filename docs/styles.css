@@ -71,12 +71,15 @@ body {
   
   .Mission{
     margin-left: 750px;
+    margin-right: 750px;
+
   }
   
   .MissionStatement{
+    text-align: center;
     padding-left: 300px;
     padding-right: 300px;
-
+    
     background-color: #ffffff
   }
   .Statement{
