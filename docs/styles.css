@@ -70,14 +70,15 @@ nav a:hover::before{
 }
 
 .Mission{
-  margin-left: 550px;
+  margin-left: 750px;
 }
 
 .MissionStatement{
   padding-left: 300px;
+  padding-right: 300px;
+
   background-color: #ffffff
 }
 .Statement{
   margin-left: 580px;
-  margin-right: 580px;
 }
